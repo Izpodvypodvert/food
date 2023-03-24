@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 const navigation = [
     { id: 1, title: "About", path: "/about" },
     { id: 2, title: "Contact", path: "/contact" },
-    { id: 3, title: "Repo", path: "https://github.com/michey85/react-shop" },
+    { id: 3, title: "Repo", path: "https://github.com/Izpodvypodvert/food/" },
 ]
 
 const Navbar = () => {
